@@ -45,17 +45,6 @@ We love tinkering, breaking things, and shipping stuff that makes Minecraft a li
 
 ---
 
-## 🗺️ Roadmap
-
-- [x] 🏗️ Set up the organization
-- [ ] 🧱 Core mod framework
-- [ ] 🖥️ In-game GUI and keybinds
-- [ ] 🏝️ Skyblock-specific features
-- [ ] 🧪 Testing and polish
-- [ ] 🎉 Public release
-
----
-
 ## 🤝 Want to contribute?
 
 We'd love some help! 🙌
